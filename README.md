@@ -1,6 +1,7 @@
 # N-Sudoku App
 
 A simple Sudoku game built with Vue 3
+[Live demo here](https://n-sudoku.web.app)
 
 ## Features
 
